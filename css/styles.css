@@ -303,7 +303,7 @@ img {
 }
 
 .team-wrraper {
-    padding: 32px 16px;
+    padding: 32px 0;
 }
 
 .team-title {
@@ -331,12 +331,6 @@ img {
     justify-content: center;
     gap: 24px;
 
-
-    max-width: 232px;
-}
-
-.team-social-item {
-    width: calc((100% - 72px)/4);
 }
 
 .team-social-link {
